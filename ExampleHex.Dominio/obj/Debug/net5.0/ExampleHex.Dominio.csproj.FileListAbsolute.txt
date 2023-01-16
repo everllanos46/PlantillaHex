@@ -1,0 +1,16 @@
+C:\Users\everl\source\repos\ExampleHex.Dominio\ExampleHex.Dominio\bin\Debug\net5.0\ExampleHex.Dominio.exe
+C:\Users\everl\source\repos\ExampleHex.Dominio\ExampleHex.Dominio\bin\Debug\net5.0\ExampleHex.Dominio.deps.json
+C:\Users\everl\source\repos\ExampleHex.Dominio\ExampleHex.Dominio\bin\Debug\net5.0\ExampleHex.Dominio.runtimeconfig.json
+C:\Users\everl\source\repos\ExampleHex.Dominio\ExampleHex.Dominio\bin\Debug\net5.0\ExampleHex.Dominio.runtimeconfig.dev.json
+C:\Users\everl\source\repos\ExampleHex.Dominio\ExampleHex.Dominio\bin\Debug\net5.0\ExampleHex.Dominio.dll
+C:\Users\everl\source\repos\ExampleHex.Dominio\ExampleHex.Dominio\bin\Debug\net5.0\ref\ExampleHex.Dominio.dll
+C:\Users\everl\source\repos\ExampleHex.Dominio\ExampleHex.Dominio\bin\Debug\net5.0\ExampleHex.Dominio.pdb
+C:\Users\everl\source\repos\ExampleHex.Dominio\ExampleHex.Dominio\obj\Debug\net5.0\ExampleHex.Dominio.csproj.AssemblyReference.cache
+C:\Users\everl\source\repos\ExampleHex.Dominio\ExampleHex.Dominio\obj\Debug\net5.0\ExampleHex.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\everl\source\repos\ExampleHex.Dominio\ExampleHex.Dominio\obj\Debug\net5.0\ExampleHex.Dominio.AssemblyInfoInputs.cache
+C:\Users\everl\source\repos\ExampleHex.Dominio\ExampleHex.Dominio\obj\Debug\net5.0\ExampleHex.Dominio.AssemblyInfo.cs
+C:\Users\everl\source\repos\ExampleHex.Dominio\ExampleHex.Dominio\obj\Debug\net5.0\ExampleHex.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\everl\source\repos\ExampleHex.Dominio\ExampleHex.Dominio\obj\Debug\net5.0\ExampleHex.Dominio.dll
+C:\Users\everl\source\repos\ExampleHex.Dominio\ExampleHex.Dominio\obj\Debug\net5.0\ref\ExampleHex.Dominio.dll
+C:\Users\everl\source\repos\ExampleHex.Dominio\ExampleHex.Dominio\obj\Debug\net5.0\ExampleHex.Dominio.pdb
+C:\Users\everl\source\repos\ExampleHex.Dominio\ExampleHex.Dominio\obj\Debug\net5.0\ExampleHex.Dominio.genruntimeconfig.cache

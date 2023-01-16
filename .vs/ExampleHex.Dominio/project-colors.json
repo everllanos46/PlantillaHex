@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c263e75-f0e0-4a0e-a07d-f2e601bf3d25": {
+      "ProjectGuid": "2c263e75-f0e0-4a0e-a07d-f2e601bf3d25",
+      "DisplayName": "ExampleHex.Dominio",
+      "ColorIndex": 0
+    },
+    "5558e80b-07cd-40ad-be51-05032edf3bad": {
+      "ProjectGuid": "5558e80b-07cd-40ad-be51-05032edf3bad",
+      "DisplayName": "ExampleHex.Aplicaciones",
+      "ColorIndex": 1
+    },
+    "ec23ac1c-bd52-4b87-b6c5-94a71e3ee186": {
+      "ProjectGuid": "ec23ac1c-bd52-4b87-b6c5-94a71e3ee186",
+      "DisplayName": "ExampleHex.Infraestrucutra.Datos",
+      "ColorIndex": 2
+    },
+    "9cf6ac95-1622-473b-89b9-6558f98fcd7b": {
+      "ProjectGuid": "9cf6ac95-1622-473b-89b9-6558f98fcd7b",
+      "DisplayName": "ExampleHex.Infraestructura.API",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

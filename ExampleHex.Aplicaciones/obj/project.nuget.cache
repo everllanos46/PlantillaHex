@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k7a8EkKF3c93yyelxBc2hVQv/RlgznUFSi1UX1lqH5hcdLMg+Z9Re7o9B5i3I38rk1OxHsebL5SSFx76f4dl3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\everl\\source\\repos\\PruebaTecnica\\ExampleHex.Dominio\\ExampleHex.Aplicaciones\\ExampleHex.Aplicaciones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\everl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

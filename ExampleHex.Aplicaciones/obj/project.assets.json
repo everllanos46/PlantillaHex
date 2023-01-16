@@ -1,0 +1,101 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ExampleHex.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ExampleHex.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExampleHex.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExampleHex.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../ExampleHex.Dominio/ExampleHex.Dominio.csproj",
+      "msbuildProject": "../ExampleHex.Dominio/ExampleHex.Dominio.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ExampleHex.Dominio >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\everl\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\everl\\source\\repos\\PruebaTecnica\\ExampleHex.Dominio\\ExampleHex.Aplicaciones\\ExampleHex.Aplicaciones.csproj",
+      "projectName": "ExampleHex.Aplicaciones",
+      "projectPath": "C:\\Users\\everl\\source\\repos\\PruebaTecnica\\ExampleHex.Dominio\\ExampleHex.Aplicaciones\\ExampleHex.Aplicaciones.csproj",
+      "packagesPath": "C:\\Users\\everl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\everl\\source\\repos\\PruebaTecnica\\ExampleHex.Dominio\\ExampleHex.Aplicaciones\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\everl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\everl\\source\\repos\\PruebaTecnica\\ExampleHex.Dominio\\ExampleHex.Dominio\\ExampleHex.Dominio.csproj": {
+              "projectPath": "C:\\Users\\everl\\source\\repos\\PruebaTecnica\\ExampleHex.Dominio\\ExampleHex.Dominio\\ExampleHex.Dominio.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.12, 5.0.12]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
